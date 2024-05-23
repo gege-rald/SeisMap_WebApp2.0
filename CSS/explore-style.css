@@ -1,0 +1,10 @@
+.map-container {
+    float: left; /* Make the container float to the left */
+    width: 50%;  /* Set the width to 50% of the viewport */
+    height: 600px; /* Set the height of the container */
+  }
+  
+  #map {
+    height: 100%; /* Set the map to fill the entire container height */
+  }
+  
